@@ -1,0 +1,159 @@
+body{
+    margin: 0;
+    background-image:url(fundo.png);
+}
+
+.cabecalho{
+   display: flex;
+    background-color: #370000;
+    height: 100px;
+    align-items: center;
+}
+
+.bemvindo{
+    font-size: 70px;
+    color: white;
+    padding-left: 2cm;
+}
+
+.fundoCinza{
+    height: 800px;
+    width: 1500px;
+    background-color: #D9D9D9;
+    margin-top: 200px;
+    margin: auto;
+}
+
+.logofundoCinza{
+    text-align: center;
+}
+
+.burgerdelivery{
+    text-align: center;
+    font-size: 100px;
+}
+
+.burgerCarne{
+    display: inline-block;
+    height: 200px;
+    width: 480px;
+    margin-left: 90px;
+    background-color: #370000;
+    text-align: center; 
+    margin-top: 30px;
+}
+
+.lblBurgerCarne{
+    font-size: 40px;
+    color: #D9D9D9;
+    margin: auto;
+    padding-top: 140px;
+}
+
+.burgerFrango{
+    display: inline-block;
+    height: 200px;
+    width: 480px;
+    margin-left: 90px;
+    background-color: #370000;
+    text-align: center;
+    margin-top: 50px; 
+}
+
+.Pedidos{
+    display: inline-block;
+    height: 200px;
+    width: 480px;
+    margin-left: 90px;
+    background-color: #370000;
+    text-align: center; 
+    margin-top: 30px;
+}
+
+.lblPedidos{
+    font-size: 40px;
+    color: #D9D9D9;
+    margin: auto;
+    padding-top: 140px;
+}
+
+.quemSomos{
+    display: inline-block;
+    height: 200px;
+    width: 480px;
+    margin-left: 90px;
+    background-color: #370000;
+    text-align: center; 
+    margin-top: 30px;
+}
+
+.lblquemSomos{
+    font-size: 40px;
+    color: #D9D9D9;
+    margin: auto;
+    padding-top: 140px;
+}
+
+.bagulinhos{
+    display: inline-block;
+    align-content: center;
+    margin-left: 8.5%;
+}  
+
+#as {
+    text-decoration: none;
+}
+
+.cadastro{
+    background-color: white;
+    color: #370000;
+    font-size: 35px;
+    height: 45px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 10px rgb(136, 55, 55);
+    margin-left: 790px;
+    text-decoration: none;                                 
+}
+
+.contato{
+    background-color: white;
+    color: #370000;
+    font-size: 35px;
+    height: 45px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 10px rgb(136, 55, 55);
+    margin-left: 40px; 
+}
+
+.Home{
+    background-color: white;
+    color: #370000;
+    font-size: 35px;
+    height: 45px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 10px rgb(136, 55, 55);
+    margin: auto;
+}
+
+.fotoperfil{
+    display: inline-block;
+}
+
+.titulocarne{
+    color: white;
+    font-size: 50px;
+    padding-left: 600px;
+}
+
+.titulofrango{
+    color: white;
+    font-size: 50px;
+    padding-left: 600px;
+}
+
+.carnes{
+    display: block;
+    height: 100px;
+    background-color: red;
+    width: 100px;
+}
